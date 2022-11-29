@@ -1,0 +1,16 @@
+{
+  "description": "Jromario Projeto PHP OO",
+  "authors": [
+    {
+      "name": "José Romário",
+      "email": "jromario2014@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sts\\": "app/sts",
+      "Core\\": "core"
+    }
+  },
+  "require": {}
+}
